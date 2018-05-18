@@ -1,0 +1,4 @@
+#Fri May 18 21:04:22 ICT 2018
+base.0=D\:\\15670059\\zonaCordova\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\15670059\\zonaCordova\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
